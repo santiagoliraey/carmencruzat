@@ -1,34 +1,137 @@
-body {
-  font-family: 'helvetica neue', arial, sans-serif;
-  font-weight: 300;
-  background-image:url(background.jpg);
-  background-repeat: repeat;
+.navbar-brand img {width: 150px;}
+.navbar-default {
+	font-family: 'Passion One', cursive;
+    background-color: white;
+    border-color: #C1DCF3;
 }
-#wrapper {
-  width: 1000px;
-  margin: 20px auto 20px auto;
+.navbar-static-top {
+    z-index: 1000;
+    border-width: 0 0 3px;
 }
-h1{color:#2C2A48}
-h2{color:#2C2A48}
-h2{font-size:18px}
-h3{color:#2C2A48}
-h3{font-size:10px}
-h3{margin:30px}
-h4{color:#2C2A48}
-h4{font-size:18px}
-h4{font-style:italic;}
-h4{text-decoration:underline;}
-h5{color:#655D65}
-h5{margin:20px}
-h5{font-size:15px}
-p{color:#2C2A48}
-p{margin:20px}
-p{font-size:14px}
-ul{color:#2C2A48}
-a{color:#2C2A48}
-li{color:#2C2A48}
-li{font-size:14px}
-.link{color:blue;}
-#bio{color:red;}
-#k{color:#655D65;}
-img{margin:15px}
+.navbar {
+    position: relative;
+    min-height: 100px;
+}
+.navbar-text {
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+.btn{
+	font-size: 20px;
+    margin-top: 35px;
+    margin-bottom: 8px;
+    text-align: left;
+}
+.btn-default {
+    color: #667A8C;
+    background-color: white;
+    border-color: white;
+}
+.jumbotron h1, .h1, .jumbotron h2, .h2, .jumbotron h3, .h3, .jumbotron p {
+    margin: auto;
+    width: 28%;
+}
+.jumbotron p {
+    margin: auto;
+    margin-top: 50px;
+    width: 80%;
+    text-align: center
+}
+.jumbotron {
+	font-family: 'Righteous', cursive;
+    margin-bottom: 0px;
+    min-height: 350px;
+    background-image: url(background1.jpg);
+    background-position: 40%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+.btn-primary {
+    color: #667A8C;
+    background-color: white;
+    border-color: #357ebd;
+}
+.thumbnail {
+    display: block;
+    padding: 4px;
+    height: 250px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    line-height: 1.42857143;
+    background-color: #E8E5E5;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+.uses p {
+	font-family: 'Overlock', cursive;
+    font-size: 15px;
+    margin: auto;
+    text-align: center;
+    width: 80%;
+}
+.uses a {
+    color: #667A8C;
+    text-decoration: none;
+}
+.jumbotron2 {
+	font-family: 'Righteous', cursive;
+	text-align:left;
+	vertical-align: text-bottom;
+	min-height: 350px;
+    margin-bottom: 0px;
+    background-image: url(app5.png);
+    background-position: 100%;
+    background-repeat: no-repeat;
+    color: #667A8C;
+}
+.jumbotron2 p{
+	color: white;
+	margin-left: 40px;
+	margin-top: 20px;
+	font-size: 40px
+}
+.jumbotron2 h1{
+	color: #283B52;
+	margin-left: 40px;
+	font-size: 30px;
+}
+.jumbotron2 h2{
+	color: white;
+	margin-left: 40px;
+	font-size: 30px;
+}
+.jumbotron3 {
+	text-align:right;
+	vertical-align: text-bottom;
+	min-height: 200px;
+    margin-bottom: 0px;
+    background-position: 100%;
+    background-repeat: no-repeat;
+    color: #667A8C;
+}
+.final h3{
+	color: #283B52;
+	font-size:30px;
+	margin-left: 30px;
+}
+.final h2{
+	color: #283B52;
+	font-size:15px;
+	margin-right: 60px;
+}
+.final h1{
+	color: white;
+	font-size:30px;
+	margin-left: 30px;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #667A8C;
+    background-color: #EAEBEC;
+    border-color: white;
+}
+.social{
+	font-size: 10px
+}
