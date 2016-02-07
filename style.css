@@ -1,7 +1,10 @@
-.navbar-brand img {width: 150px;}
+.navbar-brand img {
+    width: 50px;
+    margin-left: 0px;
+}
 .navbar-default {
 	font-family: 'Passion One', cursive;
-    background-color: white;
+    background-color: #263953;
     border-color: #C1DCF3;
 }
 .navbar-static-top {
@@ -10,7 +13,7 @@
 }
 .navbar {
     position: relative;
-    min-height: 100px;
+    min-height: 80px;
 }
 .navbar-text {
     margin-top: 40px;
@@ -18,39 +21,38 @@
 }
 .btn{
 	font-size: 20px;
-    margin-top: 35px;
+    margin-top: 15px;
     margin-bottom: 8px;
     text-align: left;
 }
 .btn-default {
-    color: #667A8C;
-    background-color: white;
-    border-color: white;
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
 }
 .jumbotron h1, .h1, .jumbotron h2, .h2, .jumbotron h3, .h3, .jumbotron p {
-    margin: auto;
-    width: 28%;
+    color: white;
+    margin-left:30px;
 }
 .jumbotron p {
-    margin: auto;
-    margin-top: 50px;
-    width: 80%;
-    text-align: center
+    margin-left:30px;
+    margin-top: 20px;
+    max-width: 60%;
 }
 .jumbotron {
 	font-family: 'Righteous', cursive;
+    margin-top: 0px;
     margin-bottom: 0px;
     min-height: 350px;
     background-image: url(background1.jpg);
     background-position: 40%;
     background-size: cover;
     background-repeat: no-repeat;
-    color: white;
 }
 .btn-primary {
-    color: #667A8C;
-    background-color: white;
-    border-color: #357ebd;
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
 }
 .thumbnail {
     display: block;
@@ -88,7 +90,7 @@
     color: #667A8C;
 }
 .jumbotron2 p{
-	color: white;
+	color: #465D79;
 	margin-left: 40px;
 	margin-top: 20px;
 	font-size: 40px
@@ -99,18 +101,9 @@
 	font-size: 30px;
 }
 .jumbotron2 h2{
-	color: white;
+	color: #465D79;
 	margin-left: 40px;
 	font-size: 30px;
-}
-.jumbotron3 {
-	text-align:right;
-	vertical-align: text-bottom;
-	min-height: 200px;
-    margin-bottom: 0px;
-    background-position: 100%;
-    background-repeat: no-repeat;
-    color: #667A8C;
 }
 .final h3{
 	color: #283B52;
@@ -119,7 +112,7 @@
 }
 .final h2{
 	color: #283B52;
-	font-size:15px;
+	font-size:10px;
 	margin-right: 60px;
 }
 .final h1{
@@ -128,10 +121,36 @@
 	margin-left: 30px;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
-    color: #667A8C;
-    background-color: #EAEBEC;
-    border-color: white;
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    box-shadow: inset 0 0px 0px rgba(0,0,0,.125);
 }
 .social{
 	font-size: 10px
+}
+.pricing{
+    margin-left:50px;
+    margin-right:50px;
+    display:block;
+}
+.description{
+    text-align: center;
+    font-family: 'Overlock';
+    font-size:50px;
+}
+.price_desr{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Overlock';
+    margin-top: 30px;
+}
+.details{
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Overlock';
+    margin-top: 10px;    
+}
+.youtube{
+    text-align: center;
 }
