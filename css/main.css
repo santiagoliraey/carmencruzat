@@ -775,7 +775,7 @@ ul.social-icons li {
   left: 14%;
 }
 .fancybox-close {
-  background: url("../images/icons/close.png") no-repeat scroll center center #009ee3;
+  background: url("../images/icons/close.png") no-repeat scroll center center transparent;
   height: 50px;
   right: 0;
   top: 0;
