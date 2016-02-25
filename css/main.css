@@ -774,7 +774,7 @@ ul.social-icons li {
 .works-fit figure .buttons {
   left: 14%;
 }
-.fancybox-close {
+.fancybox-close span {
   background: url("../images/icons/close.png") no-repeat scroll center center transparent;
   height: 50px;
   right: 0;
@@ -782,13 +782,13 @@ ul.social-icons li {
   width: 50px;
 }
 .fancybox-next span {
-  background: url("../images/icons/right.png") no-repeat scroll center center #009ee3;
+  background: url("../images/icons/right.png") no-repeat scroll center center transparent;
   height: 50px;
   width: 50px;
   right: 0;
 }
 .fancybox-prev span {
-  background: url("../images/icons/left.png") no-repeat scroll center center #009ee3;
+  background: url("../images/icons/left.png") no-repeat scroll center center transparent;
   height: 50px;
   width: 50px;
   left: 0;
