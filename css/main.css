@@ -1164,5 +1164,102 @@ a {
   font-family: 'Alegreya Sans', sans-serif;
   color: black;
   font-weight:lighter;
-  margin-bottom: 5px;
+}
+.collage2013{
+  height: 250px;
+  max-width: 100%;
+  text-align: center;
+  margin: 5px;
+  padding: 0;
+}
+.collage2014{
+  height: 250px;
+  max-width: 100%;
+  text-align: center;
+  margin: 5px;
+  padding: 0;
+}
+.collage2015{
+  height: 300px;
+  max-width: 100%;
+  text-align: center;
+  margin: 5px;
+  padding: 0;
+}
+.collage2016{
+  height: 320px;
+  max-width: 100%;
+  text-align: center;
+  margin: 5px;
+  padding: 0;
+}
+.blocks{
+  height: 400px;
+  max-width: 100%;
+  text-align: center;
+  margin: 5px;
+  padding: 0;
+}
+.blocks2{
+  min-height: 450px;
+  max-width: 100%;
+  text-align: center;
+  margin: 5px;
+  padding: 0;
+}
+.characters{
+  min-height: 400px;
+  max-width: 100%;
+  text-align: center;
+  margin: 5px;
+  padding: 0;
+}
+.cuts{
+  height: 400px;
+  max-width: 100%;
+  text-align: center;
+  margin: 5px;
+  padding: 0;
+}
+.faxxi{
+  height: 300px;
+  max-width: 100%;
+  text-align: center;
+  margin: 5px;
+  padding: 0;
+}
+.installations{
+  height: 200px;
+  max-width: 100%;
+  text-align: center;
+  margin: 5px;
+  padding: 0;
+}
+.prints{
+  height: 400px;
+  max-width: 100%;
+  text-align: center;
+  margin: 5px;
+  padding: 0;
+}
+.shapes{
+  height: 400px;
+  max-width: 100%;
+  text-align: center;
+  margin: 5px;
+  padding: 0;
+}
+.shapes2{
+  height: 400px;
+  max-width: 100%;
+  text-align: center;
+  margin: 5px;
+  padding: 0;
+}
+.volume{
+  height: 200px;
+  max-width: 100%;
+  text-align: center;
+  margin: 5px;
+  padding: 0;
 }
