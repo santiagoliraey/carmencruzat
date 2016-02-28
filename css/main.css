@@ -1194,14 +1194,14 @@ a {
   padding: 0;
 }
 .blocks{
-  height: 350px;
+  height: 400px;
   max-width: 100%;
   text-align: center;
   margin: 5px;
   padding: 0;
 }
 .blocks2{
-  min-height: 450px;
+  min-height: 400px;
   max-width: 100%;
   text-align: center;
   margin: 5px;
