@@ -157,7 +157,7 @@ a:hover {
   color: #fff;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
   position: relative;
-  margin-top: 70px;
+  margin-top: 40px;
   height: 627px;
 }
 hero-area:before {
@@ -1262,4 +1262,7 @@ a {
   text-align: center;
   margin: 5px;
   padding: 0;
+}
+.viewwork{
+  margin-top: 40px;
 }
