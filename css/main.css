@@ -1151,7 +1151,8 @@ a {
 .artista{
   font-size:30px;
   font-family: 'Alegreya Sans', sans-serif;
-  font-weight:lighter;  
+  font-weight:lighter;
+  position:fixed;  
 }
 .viewworks{
   font-size:25px;
