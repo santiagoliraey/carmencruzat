@@ -101,7 +101,6 @@ a:hover {
 }
 #top-bar {
   background: #fff;
-  color: #fff;
   -webkit-transition: all 0.2s ease-out 0s;
   transition: all 0.2s ease-out 0s;
   padding: 15px 0;
@@ -1096,7 +1095,6 @@ article {
   line-height: normal;
   text-decoration: none;
   padding: 8px 0;
-  color: #fff;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 .resumeeimg{
