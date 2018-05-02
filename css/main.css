@@ -1113,7 +1113,7 @@ article {
   height: 300px;
   width: 550px;
   text-align: center;
-  margin: auto; 
+  margin: auto;
 }
 .img-responsive{
     position:absolute;
@@ -1152,7 +1152,8 @@ a {
   font-size:30px;
   font-family: 'Alegreya Sans', sans-serif;
   font-weight:lighter;
-  position:fixed;  
+  position:fixed;
+  color:#7B8084;
 }
 .viewworks{
   font-size:25px;
